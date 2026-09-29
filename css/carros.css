@@ -11,6 +11,12 @@ body {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000000;
+}
+
+p1 small {
+    color: lab(0.82% 0 0);
+    text-transform: uppercase;
 }
 
 h2 {
@@ -53,7 +59,7 @@ a {
 }
 
 .card {
-    background-color: white;
+    background-color: lch(97.03% 88.48 104.27);
     width: 32%;
     text-align: center;
 }
